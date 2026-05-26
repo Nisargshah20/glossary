@@ -1,0 +1,21 @@
+source,target,locale,domain,definition,forbidden
+Nisarg,Nisarg,fr-FR,proper-noun,Proper name - do not translate,false
+Nisarg,Nisarg,de-DE,proper-noun,Proper name - do not translate,false
+Nisarg,Nisarg,ja-JP,proper-noun,Proper name - do not translate,false
+Nisarg,Nisarg,zh-TW,proper-noun,Proper name - do not translate,false
+Nisarg,Nisarg,zh-CN,proper-noun,Proper name - do not translate,false
+Nisarg,Nisarg,ko-KR,proper-noun,Proper name - do not translate,false
+Nisarg,Nisarg,hi-IN,proper-noun,Proper name - do not translate,false
+Nisarg,Nisarg,es-ES,proper-noun,Proper name - do not translate,false
+Nisarg,Nisarg,pt-BR,proper-noun,Proper name - do not translate,false
+Nisarg,Nisarg,it-IT,proper-noun,Proper name - do not translate,false
+GLaaS,GLaaS,fr-FR,product,Global Language as a Service - keep as acronym,false
+GLaaS,GLaaS,de-DE,product,Global Language as a Service - keep as acronym,false
+GLaaS,GLaaS,ja-JP,product,Global Language as a Service - keep as acronym,false
+GLaaS,GLaaS,zh-TW,product,Global Language as a Service - keep as acronym,false
+GLaaS,GLaaS,zh-CN,product,Global Language as a Service - keep as acronym,false
+GLaaS,GLaaS,ko-KR,product,Global Language as a Service - keep as acronym,false
+GLaaS,GLaaS,hi-IN,product,Global Language as a Service - keep as acronym,false
+GLaaS,GLaaS,es-ES,product,Global Language as a Service - keep as acronym,false
+GLaaS,GLaaS,pt-BR,product,Global Language as a Service - keep as acronym,false
+GLaaS,GLaaS,it-IT,product,Global Language as a Service - keep as acronym,false
